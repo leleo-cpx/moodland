@@ -62,13 +62,3 @@ Análise de dados via Google Analytics/Ads
 ## 📜 **Licença**  
 **Uso Restrito** © 2025 - Leonardo França de Lima & João Gabriel Camilo Pires.  
 Proibida a reprodução ou uso não autorizado. [Detalhes da licença](LICENSE.md).  
-
----
-
-### ✨ **Destaques do README**  
-- **Tags de status e licença** via shields.io para visibilidade imediata.  
-- **Tabelas organizadas** para tecnologias, usuários e requisitos.  
-- **Estrutura de pastas** clara para facilitar contribuições.  
-- **Links diretos** para documentação e legislação relevante.  
-
-Ajuste os caminhos dos arquivos (como `LICENSE.md`) conforme sua estrutura real!
